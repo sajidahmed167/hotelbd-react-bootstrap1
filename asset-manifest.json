@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hotelbd-react-bootstrap1/static/css/main.8d328e52.chunk.css",
+    "main.js": "/hotelbd-react-bootstrap1/static/js/main.abde1886.chunk.js",
+    "main.js.map": "/hotelbd-react-bootstrap1/static/js/main.abde1886.chunk.js.map",
+    "runtime-main.js": "/hotelbd-react-bootstrap1/static/js/runtime-main.8b50d4ce.js",
+    "runtime-main.js.map": "/hotelbd-react-bootstrap1/static/js/runtime-main.8b50d4ce.js.map",
+    "static/js/2.e140df31.chunk.js": "/hotelbd-react-bootstrap1/static/js/2.e140df31.chunk.js",
+    "static/js/2.e140df31.chunk.js.map": "/hotelbd-react-bootstrap1/static/js/2.e140df31.chunk.js.map",
+    "static/js/3.684752db.chunk.js": "/hotelbd-react-bootstrap1/static/js/3.684752db.chunk.js",
+    "static/js/3.684752db.chunk.js.map": "/hotelbd-react-bootstrap1/static/js/3.684752db.chunk.js.map",
+    "index.html": "/hotelbd-react-bootstrap1/index.html",
+    "static/css/main.8d328e52.chunk.css.map": "/hotelbd-react-bootstrap1/static/css/main.8d328e52.chunk.css.map",
+    "static/js/2.e140df31.chunk.js.LICENSE.txt": "/hotelbd-react-bootstrap1/static/js/2.e140df31.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b50d4ce.js",
+    "static/js/2.e140df31.chunk.js",
+    "static/css/main.8d328e52.chunk.css",
+    "static/js/main.abde1886.chunk.js"
+  ]
+}
